@@ -17,6 +17,8 @@ Año 2023
 ## El video fue subido a una carpeta de Drive, ya que Github no me lo permitió subir dado que tenía más de 25 MBytes (el video tiene 198 MBytes)
 ## Link al video y al documento de pruebas: https://drive.google.com/drive/folders/1p54jKaC20EoEPNz7KTe1s0znrESoE08N?usp=sharing
 
+## VER EL VIDEO PARA ENTENDER EL ACTUAL ALCANCE DEL SISTEMA
+
 
 ## Introducción
 
